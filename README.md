@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode for everyday
+Leetcode for everyday by C++
